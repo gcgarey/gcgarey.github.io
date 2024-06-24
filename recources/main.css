@@ -668,6 +668,7 @@ footer {
       .home-thumb {
         padding-left: 150px;
       }
+    
       
       
   }
@@ -679,6 +680,7 @@ footer {
           padding:70px;
           padding-top:0;
       }
+      
   }
   @media(max-width:400px){
       .section{
@@ -688,9 +690,10 @@ footer {
           padding:40px;
           padding-top:0;
       }
-      .home-thumb{
-        color: black;
+      #home {
+        background-position: center right;
       }
+      
 
   }
   
